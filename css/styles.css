@@ -1,0 +1,22 @@
+.btn{
+  color: #fa26a0;
+  background-color: black;
+  outline-color: #fa26a0;
+  outline-style: solid;
+  outline-width: thin;
+}
+
+.body {
+  background-color: black;
+
+}
+
+img{
+  padding-left: 43%;
+}
+
+
+#container{
+  padding-left: 43%;
+  position: relative;
+}
